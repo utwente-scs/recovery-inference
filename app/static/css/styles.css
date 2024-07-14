@@ -1,0 +1,61 @@
+/* Add any additional custom styles here */
+body {
+    padding-top: 20px;
+}
+
+pre {
+    padding-bottom: 1rem;
+}
+
+.container {
+    max-width: 90%;
+}
+
+textarea {
+    height: 200px;
+}
+
+.custom-file-input {
+    cursor: pointer;
+}
+
+.input-output-box {
+    border: 1px solid #ced4da;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.output-box-even {
+    background-color: #f8f9fa;
+}
+
+.output-box-odd {
+    background-color: #e9ecef;
+}
+
+.pre-word-wrap {
+    white-space: pre-wrap;
+    /* Since CSS 2.1 */
+    white-space: -moz-pre-wrap;
+    /* Mozilla, since 1999 */
+    white-space: -pre-wrap;
+    /* Opera 4-6 */
+    white-space: -o-pre-wrap;
+    /* Opera 7 */
+    word-wrap: break-word;
+    /* Internet Explorer 5.5+ */
+}
+
+.pre-scroll {
+    overflow-x: auto;
+}
+
+.table td,
+.table th {
+    max-width: 0;
+}
+
+.header{
+    position:sticky;
+    top: 0 ;
+}
