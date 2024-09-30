@@ -69,6 +69,10 @@ $ docker compose up --build
 
 3. Access the GUI in a web browser: `http://127.0.0.1:5000`.
 
+## Acknowledgments
+
+We would like to extend our gratitude to Yikun Li for his invaluable input, feedback and assistance in setting up the LLM experiments.
+
 ## References
 [1] `Kucsván, Z. L., Caselli, M., Peter, A., & Continella, A. (2024, July). Inferring Recovery Steps from Cyber Threat Intelligence Reports. In Proceedings of the Conference on Detection of Intrusions and Malware and Vulnerability Assessment (DIMVA), 2024.`
 
